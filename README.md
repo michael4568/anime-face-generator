@@ -1,7 +1,7 @@
 # anime-face-generator
 This project showcases an Anime Face Generator built using Generative Adversarial Networks (GANs). The goal was to generate realistic anime faces by training a GAN on an anime face dataset from Kaggle. The project includes custom implementations of both the generator and discriminator networks, training loops, and visualizations of the model's performance over time.
 
-##Key Features
+## Key Features
 Anime Face Dataset: Utilized a publicly available anime face dataset from Kaggle to train the model.
 Generator and Discriminator Networks: Designed custom architectures for both networks with careful attention to stability during training.
 Training Process: Defined the training loop with adaptive learning to optimize both networks simultaneously.
